@@ -10,4 +10,5 @@
 2. 由于Swing的所有组件完全采用Java实现，不再调用本地平台的GUI，所有导致Swing图形界面的显示速度要比AWT图形界面的显示速度慢一些，但相对于快速发展的硬件设施而言，这种微小的速度差距并无大碍。
 3. Swing组件采用MVC(Model-View-Controller,即模型-视图-控制器)设计模式
 ## 截图
-
+![截图_org-example-Main_20240928171608](https://github.com/user-attachments/assets/95f534d2-54c2-4e4a-8a76-36347aabb159)
+![截图_org-example-Main_20240928171517](https://github.com/user-attachments/assets/9acbd713-07bd-4259-979b-a8cf82ce33a0)
