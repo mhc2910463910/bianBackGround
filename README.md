@@ -12,3 +12,5 @@
 ## 截图
 ![截图_org-example-Main_20240928171608](https://github.com/user-attachments/assets/95f534d2-54c2-4e4a-8a76-36347aabb159)
 ![截图_org-example-Main_20240928171517](https://github.com/user-attachments/assets/9acbd713-07bd-4259-979b-a8cf82ce33a0)
+
+###### ps: 此处只是保存一下代码，壁纸网站添加了真人验证，此项目已经无法使用。
